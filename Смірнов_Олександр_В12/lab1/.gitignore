@@ -1,0 +1,5 @@
+main
+*.dSYM/
+*.out
+task*_input.*
+task*_result.txt

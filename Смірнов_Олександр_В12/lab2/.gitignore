@@ -1,0 +1,13 @@
+task1
+task2_encrypt
+task2_decrypt
+task3_encrypt
+task3_decrypt
+task4
+*.dSYM/
+*.out
+*.bin
+task*_encrypted.*
+task*_decrypted.txt
+task*_result.txt
+task*_input.txt
